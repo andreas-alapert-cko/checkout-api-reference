@@ -28,6 +28,8 @@ discriminator:
     qpay: '#/components/schemas/PaymentRequestQPaySource'
     afterpay: '#/components/schemas/PaymentRequestAfterPaySource'
     mbway: '#/components/schemas/PaymentRequestMbwaySource'
+    stcpay: '#/components/schemas/PaymentRequestStcPaySource'
+
 required:
   - type
 properties:

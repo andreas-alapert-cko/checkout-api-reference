@@ -45,6 +45,11 @@ properties:
         example: '10014'
   items:
     $ref: '#/components/schemas/Items'
+  otp_value:
+    type: string
+    description: One time password sent to customer by SMS.
+    maxLength: 50
+    example: '966557877988'
   marketplace:
     $ref: '#/components/schemas/MarketplaceCapture'
   processing:
