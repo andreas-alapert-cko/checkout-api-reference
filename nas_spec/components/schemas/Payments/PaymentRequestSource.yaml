@@ -31,6 +31,9 @@ discriminator:
     stcpay: '#/components/schemas/PaymentRequestStcPaySource'
     p24: '#/components/schemas/PaymentRequestP24Source'
     knet: '#/components/schemas/PaymentRequestKnetSource'
+    multibanco: '#/components/schemas/PaymentRequestMultibancoSource'
+    postfinance: '#/components/schemas/PaymentRequestPostfinanceSource'
+    bancontact: '#/components/schemas/PaymentRequestBancontactSource'
 required:
   - type
 properties:

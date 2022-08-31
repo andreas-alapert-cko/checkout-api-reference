@@ -4,6 +4,9 @@
 | ---------- | --------------------------------------------------------------------------------------------------------------------- |
 | 2022/08/26 | ADD KNET NAS Request and Response source                                                                              |
 | 2022/08/25 | Add P24 NAS Request and Response source.                                                                              |
+| 2022/08/29 | Add Postfinance, Bancontact and Multibanco NAS Request and Response sources                                           |
+| 2022/08/26 | ADD KNET NAS Request and Response source                                                                              |
+| 2022/08/25 | Add P24 NAS Request and Response source.                                                                              |
 | 2022/08/23 | Add STC Pay                                                                                                           |
 | 2022/08/19 | Add Benefit PG specific requirements to `reference` description                                                       |
 | 2022/08/19 | Added alipay_plus type                                                                                                |
